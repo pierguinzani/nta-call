@@ -31,6 +31,7 @@
   * [Mobile](#lipstick-mobile)
     * [Installing Dependencies](#construction-installing-dependencies)
     * [Running](#arrow_forward-running)
+    * [Generate APK](#zap-generate-apk)
 * [License](#page_facing_up-license)
 
 ## :book: About The Project
