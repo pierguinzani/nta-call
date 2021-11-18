@@ -139,6 +139,8 @@ $ react-native run-ios
 - Lya
 - Doug
 
+### :zap: Generate APK
+`cd android && gradlew assembleRelease`
 ### :page_facing_up: License
 
 This project uses [MIT](https://github.com/pierguinzani/nta-call/blob/main/LICENSE) lincense.
