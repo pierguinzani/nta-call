@@ -130,7 +130,14 @@ or
 $ react-native run-ios
 ```
 
-🚨 to simplify the test, the apk for Android was generated and is located at nta-call/mobile/android/build/apks/app_release.apk
+🚨 to simplify the test, the apk for Android was generated and is located at nta-call/mobile/android/app/build/outputs/apk/release/app_release.apk
+ <br />
+🚨 In order not to increase the complexity of the code, some users were previously added in a mock api. To test the application, log in as one of the following users:
+- Carlo
+- Sarah
+- Tay
+- Lya
+- Doug
 
 ### :page_facing_up: License
 
