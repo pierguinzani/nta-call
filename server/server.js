@@ -57,6 +57,16 @@ wss.on("connection", function (connection) {
                 }
 
                 break;
+            case "logout":
+                if (connection.name) 
+                    console.log(`${connection.name} logged out`);
+                    delete users[connection.name]; 
+                
+                sendTo(connection, {
+                    type: "logout",
+                    success: true
+                });  
+                break;
 
             case "offer":
                 //for ex. UserA wants to call UserB
@@ -120,7 +130,7 @@ wss.on("connection", function (connection) {
                 break;
 
             case "chat":
-                console.log("Sending message to:", data.name);
+                console.log(`Sending '${data.message}' to: ${data.name}`);
                 var conn = users[data.name];
 
                 if (conn != null) {
