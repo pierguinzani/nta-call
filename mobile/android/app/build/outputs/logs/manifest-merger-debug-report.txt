@@ -1,0 +1,370 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:1:1-38:12
+MERGED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:1:1-38:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\b7640053a870fcc75885a712d394e77a\flipper-0.54.0\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\658e4b2ed60efb933686c0a1a8c3fb04\flipper-network-plugin-0.54.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\90714c006fcb9ae07c923c6ed4e6edfb\flipper-fresco-plugin-0.54.0\AndroidManifest.xml:8:1-15:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\08e4e7b8ee8af5386342ccac630871c2\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-community_async-storage] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_toolbar-android] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\@react-native-community\toolbar-android\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-incall-manager] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-incall-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-pager-view] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-pager-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-utils-scale] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-utils-scale\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-utils-toolkit] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-utils-toolkit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webrtc] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-webrtc\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.62.3] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\6ffc5e966b29fd16c783e8e0c632d11b\jetified-react-native-0.62.3\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\3febf635c00c1a016c0414fa915338f1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\c31b2b141b2bc9ed9b216c4d37661ca8\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\af1eb041ab5b625bfa2a00c148937c67\android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\05580b7adc736fa01438025ce9f85330\flipper-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\a04e38053d8981b17757cf43cab4314a\stetho-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\3af4f3bae446bb5f132ddce9ee628f32\fresco-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\8296f8edef19ef5698ee7c5ed95fb67d\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\36d2269a8b9c02eebdb03b281865fc6c\drawee-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\5d5d24456c5eb826fea05b1eada63e0a\nativeimagefilters-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\481618d0ac415d74143d2f2a8ccf0c91\memory-type-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\18e1ec484caf7edc8c1084b38926d4d6\memory-type-java-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\7540b8e30c15d2d3462ecfa8f8dc8648\imagepipeline-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\a68d9417aa6ab367d1170264105b4f91\memory-type-ashmem-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\add2a649d97f1b2de64e592d5503fe6e\imagepipeline-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\88507cd8fb3350ae55b4e59bf5dad3dc\nativeimagetranscoder-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\ed43de1bf9ae37b6cd2b0116470e5b6a\imagepipeline-base-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\b93e001beff23da4f351821e8463a26c\soloader-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\4a4e5d47e83ad9925de76c4504fa577f\soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\22172919c5cfb9eb28a9a35d8c53eddc\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\4857ee4d88f7879fc3949425d0c25ef2\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\62043a9d38ea3cf388741abd6980c26c\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\68579b5d9c60b1041ff78b3f44903b7b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\1c4bfb34aec3d1ee534d88d734fffd03\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\80f37c66696c26c6b2275897d15e3548\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\80437899c73f89696a0846a5f5fab17b\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\1a2cd42118f7ec794b33ced9aefffbf4\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\6f1b10a5d619df928bb2723ca5b931b0\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\a7b5f3c2514a7080a5f1dcf751c6cd05\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\75bcf0b52c1b8e052b65342f94827432\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\0464c741555483b76a07de582c5058c6\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\0af3273931a5bdc5e8199c772c4fe273\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\bdcdba444cfdafa177bb861ca84e296e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\2dbf9208a0df169c62ae1bbd8b50906c\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\15aa701511ec8483773fce681a1c4d83\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\59d36292f37a567b6a10b8d1b2974fe0\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\9728c772cefc4ed30fd55fae25cd58eb\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\8eba8a410a2a4eaec306ad7fc6b88b05\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\7cb99c659a6505bb0080bf6e7db7c6e9\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\e156b18ec001f40117f7bae6cfcf258b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\69664ca5ca9354fd264bf916858180ee\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\8461d91d0acc28eb74dd6ff75e3b27eb\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\325192846907705317c988b85e90d3da\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\cfbef691a97f5e119363e76d591ba00d\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\f6cf2c629a2ae804c4f46a25a03a42a9\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\ac3a2cd19bc32019dd3c1ef347897592\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\70e93f4c4fa206fc16f049e28ff637ab\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\90749a8eb4fbe6367d77be9eda5d68f1\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\b21ec18270b37579eda6de0d02ed9393\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\acf2d04235629a92817547ba85d7ed0e\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\5908f2a9900e2b21dfca62ddde01c41c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\40d097008dde0e2f2c96bd8174ecc522\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\e19d2d92dc3d88c552be0f4a17867f0e\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\f4f7d3df38724041a7dda2c8b10a3ac9\jetified-fbcore-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\a217e89afaa79e725b89b74d2cc39823\ui-common-2.2.0\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:2:3-26
+		INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:2:3-26
+		INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\b7640053a870fcc75885a712d394e77a\flipper-0.54.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\b7640053a870fcc75885a712d394e77a\flipper-0.54.0\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:7:1-61
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:7:18-58
+uses-feature#android.hardware.camera
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:8:1-56
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:8:15-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:9:1-65
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:9:15-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:11:1-74
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:11:18-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:12:1-76
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:12:18-73
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:13:1-67
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:13:18-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:14:1-64
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:14:18-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:15:1-76
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:15:18-74
+application
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:17:5-36:19
+MERGED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:17:5-36:19
+MERGED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:17:5-36:19
+MERGED from [com.facebook.react:react-native:0.62.3] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\6ffc5e966b29fd16c783e8e0c632d11b\jetified-react-native-0.62.3\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.3] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\6ffc5e966b29fd16c783e8e0c632d11b\jetified-react-native-0.62.3\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\4a4e5d47e83ad9925de76c4504fa577f\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\4a4e5d47e83ad9925de76c4504fa577f\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\22172919c5cfb9eb28a9a35d8c53eddc\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\22172919c5cfb9eb28a9a35d8c53eddc\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\7cb99c659a6505bb0080bf6e7db7c6e9\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\7cb99c659a6505bb0080bf6e7db7c6e9\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\f6cf2c629a2ae804c4f46a25a03a42a9\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\f6cf2c629a2ae804c4f46a25a03a42a9\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\7cb99c659a6505bb0080bf6e7db7c6e9\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:19:7-39
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:19:7-39
+	tools:ignore
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:21:7-52
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:21:7-52
+	tools:targetApi
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:20:7-41
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:20:7-41
+	android:allowBackup
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:22:7-34
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:22:7-34
+	android:theme
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:23:7-38
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:23:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:18:7-38
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:18:7-38
+activity#com.webrtcapp.MainActivity
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:24:7-34:18
+	android:label
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:26:9-41
+	android:launchMode
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:28:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:29:9-51
+	android:configChanges
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:27:9-86
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:25:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:30:9-33:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:31:13-65
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:31:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:32:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:35:7-84
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml:35:17-81
+uses-sdk
+INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\b7640053a870fcc75885a712d394e77a\flipper-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\b7640053a870fcc75885a712d394e77a\flipper-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\658e4b2ed60efb933686c0a1a8c3fb04\flipper-network-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\658e4b2ed60efb933686c0a1a8c3fb04\flipper-network-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\90714c006fcb9ae07c923c6ed4e6edfb\flipper-fresco-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\90714c006fcb9ae07c923c6ed4e6edfb\flipper-fresco-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\08e4e7b8ee8af5386342ccac630871c2\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\08e4e7b8ee8af5386342ccac630871c2\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:react-native-community_async-storage] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_toolbar-android] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\@react-native-community\toolbar-android\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_toolbar-android] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\@react-native-community\toolbar-android\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-incall-manager] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-incall-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-incall-manager] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-incall-manager\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-pager-view] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-pager-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-pager-view] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-pager-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-utils-scale] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-utils-scale\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-utils-scale] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-utils-scale\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-utils-toolkit] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-utils-toolkit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-utils-toolkit] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-utils-toolkit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webrtc] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-webrtc\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webrtc] C:\Users\pier_\Pictures\nta-call\mobile\node_modules\react-native-webrtc\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.3] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\6ffc5e966b29fd16c783e8e0c632d11b\jetified-react-native-0.62.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.3] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\6ffc5e966b29fd16c783e8e0c632d11b\jetified-react-native-0.62.3\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\3febf635c00c1a016c0414fa915338f1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\3febf635c00c1a016c0414fa915338f1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\c31b2b141b2bc9ed9b216c4d37661ca8\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\c31b2b141b2bc9ed9b216c4d37661ca8\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\af1eb041ab5b625bfa2a00c148937c67\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\af1eb041ab5b625bfa2a00c148937c67\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\05580b7adc736fa01438025ce9f85330\flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\05580b7adc736fa01438025ce9f85330\flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\a04e38053d8981b17757cf43cab4314a\stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\a04e38053d8981b17757cf43cab4314a\stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\3af4f3bae446bb5f132ddce9ee628f32\fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\3af4f3bae446bb5f132ddce9ee628f32\fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\8296f8edef19ef5698ee7c5ed95fb67d\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\8296f8edef19ef5698ee7c5ed95fb67d\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\36d2269a8b9c02eebdb03b281865fc6c\drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\36d2269a8b9c02eebdb03b281865fc6c\drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\5d5d24456c5eb826fea05b1eada63e0a\nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\5d5d24456c5eb826fea05b1eada63e0a\nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\481618d0ac415d74143d2f2a8ccf0c91\memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\481618d0ac415d74143d2f2a8ccf0c91\memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\18e1ec484caf7edc8c1084b38926d4d6\memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\18e1ec484caf7edc8c1084b38926d4d6\memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\7540b8e30c15d2d3462ecfa8f8dc8648\imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\7540b8e30c15d2d3462ecfa8f8dc8648\imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\a68d9417aa6ab367d1170264105b4f91\memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\a68d9417aa6ab367d1170264105b4f91\memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\add2a649d97f1b2de64e592d5503fe6e\imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\add2a649d97f1b2de64e592d5503fe6e\imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\88507cd8fb3350ae55b4e59bf5dad3dc\nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\88507cd8fb3350ae55b4e59bf5dad3dc\nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\ed43de1bf9ae37b6cd2b0116470e5b6a\imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\ed43de1bf9ae37b6cd2b0116470e5b6a\imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\b93e001beff23da4f351821e8463a26c\soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\b93e001beff23da4f351821e8463a26c\soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\4a4e5d47e83ad9925de76c4504fa577f\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\4a4e5d47e83ad9925de76c4504fa577f\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\22172919c5cfb9eb28a9a35d8c53eddc\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\22172919c5cfb9eb28a9a35d8c53eddc\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\4857ee4d88f7879fc3949425d0c25ef2\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\4857ee4d88f7879fc3949425d0c25ef2\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\62043a9d38ea3cf388741abd6980c26c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\62043a9d38ea3cf388741abd6980c26c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\68579b5d9c60b1041ff78b3f44903b7b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\68579b5d9c60b1041ff78b3f44903b7b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\1c4bfb34aec3d1ee534d88d734fffd03\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\1c4bfb34aec3d1ee534d88d734fffd03\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\80f37c66696c26c6b2275897d15e3548\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\80f37c66696c26c6b2275897d15e3548\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\80437899c73f89696a0846a5f5fab17b\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\80437899c73f89696a0846a5f5fab17b\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\1a2cd42118f7ec794b33ced9aefffbf4\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\1a2cd42118f7ec794b33ced9aefffbf4\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\6f1b10a5d619df928bb2723ca5b931b0\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\6f1b10a5d619df928bb2723ca5b931b0\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\a7b5f3c2514a7080a5f1dcf751c6cd05\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\a7b5f3c2514a7080a5f1dcf751c6cd05\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\75bcf0b52c1b8e052b65342f94827432\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\75bcf0b52c1b8e052b65342f94827432\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\0464c741555483b76a07de582c5058c6\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\0464c741555483b76a07de582c5058c6\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\0af3273931a5bdc5e8199c772c4fe273\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\0af3273931a5bdc5e8199c772c4fe273\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\bdcdba444cfdafa177bb861ca84e296e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\bdcdba444cfdafa177bb861ca84e296e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\2dbf9208a0df169c62ae1bbd8b50906c\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\2dbf9208a0df169c62ae1bbd8b50906c\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\15aa701511ec8483773fce681a1c4d83\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\15aa701511ec8483773fce681a1c4d83\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\59d36292f37a567b6a10b8d1b2974fe0\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\59d36292f37a567b6a10b8d1b2974fe0\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\9728c772cefc4ed30fd55fae25cd58eb\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\9728c772cefc4ed30fd55fae25cd58eb\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\8eba8a410a2a4eaec306ad7fc6b88b05\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\8eba8a410a2a4eaec306ad7fc6b88b05\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\7cb99c659a6505bb0080bf6e7db7c6e9\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\7cb99c659a6505bb0080bf6e7db7c6e9\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\e156b18ec001f40117f7bae6cfcf258b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\e156b18ec001f40117f7bae6cfcf258b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\69664ca5ca9354fd264bf916858180ee\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\69664ca5ca9354fd264bf916858180ee\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\8461d91d0acc28eb74dd6ff75e3b27eb\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\8461d91d0acc28eb74dd6ff75e3b27eb\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\325192846907705317c988b85e90d3da\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\325192846907705317c988b85e90d3da\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\cfbef691a97f5e119363e76d591ba00d\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\cfbef691a97f5e119363e76d591ba00d\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\f6cf2c629a2ae804c4f46a25a03a42a9\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\f6cf2c629a2ae804c4f46a25a03a42a9\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\ac3a2cd19bc32019dd3c1ef347897592\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\ac3a2cd19bc32019dd3c1ef347897592\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\70e93f4c4fa206fc16f049e28ff637ab\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\70e93f4c4fa206fc16f049e28ff637ab\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\90749a8eb4fbe6367d77be9eda5d68f1\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\90749a8eb4fbe6367d77be9eda5d68f1\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\b21ec18270b37579eda6de0d02ed9393\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\b21ec18270b37579eda6de0d02ed9393\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\acf2d04235629a92817547ba85d7ed0e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\acf2d04235629a92817547ba85d7ed0e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\5908f2a9900e2b21dfca62ddde01c41c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\5908f2a9900e2b21dfca62ddde01c41c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\40d097008dde0e2f2c96bd8174ecc522\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\40d097008dde0e2f2c96bd8174ecc522\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\e19d2d92dc3d88c552be0f4a17867f0e\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\e19d2d92dc3d88c552be0f4a17867f0e\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\f4f7d3df38724041a7dda2c8b10a3ac9\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\f4f7d3df38724041a7dda2c8b10a3ac9\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\a217e89afaa79e725b89b74d2cc39823\ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\a217e89afaa79e725b89b74d2cc39823\ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\pier_\Pictures\nta-call\mobile\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.54.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\b7640053a870fcc75885a712d394e77a\flipper-0.54.0\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.54.0] C:\Users\pier_\.gradle\caches\transforms-2\files-2.1\b7640053a870fcc75885a712d394e77a\flipper-0.54.0\AndroidManifest.xml:16:22-73
