@@ -1,0 +1,136 @@
+[ 
+    {
+        "name":"teco",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699565-1afa1acc-9df5-4766-814f-2a3642d6b1d2.jpg",
+        "role":"Finance/Accounting",
+        "email": "teco@company.com",
+        "phone_number":"5598991223344",
+        "location":"São Paulo - SP"
+    },
+
+    {
+        "name":"sarah",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699581-42cae29a-40fd-4dbb-afd8-8f7a79fdb7e0.jpg",
+        "role":"Sales",
+        "email": "sarah@company.com",
+        "phone_number":"5598991223344",
+        "location":"São Paulo - SP"
+    },
+
+    {
+        "name":"carlo",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699573-aa7337ff-ed05-42a5-8a3d-3c695697a769.jpg",
+        "role":"IT",
+        "email": "carlo@company.com",
+        "phone_number":"5598991223344",
+        "location":"São Luís - MA"
+    },
+
+    {
+        "name":"eddie",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699575-c44e9d55-4e92-435d-9b63-55a77023be70.jpg",
+        "role":"Marketing",
+        "email": "eddie@company.com",
+        "phone_number":"5598991223344",
+        "location":"São Paulo - SP"
+    },
+
+    {
+        "name":"alisson",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699570-47fcfd69-c559-41dd-9634-b762c1762c10.jpg",
+        "role":"Marketing",
+        "email": "alisson@company.com",
+        "phone_number":"5598991223344",
+        "location":"São Paulo - SP"
+    },
+
+    {
+        "name":"lya",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699578-89187204-41c7-48fd-a0cb-df2112914e33.jpg",
+        "role":"Finance/Accounting",
+        "email": "lya@company.com",
+        "phone_number":"5598991223344",
+        "location":"São Luís - MA"
+    },
+
+    {
+        "name":"naggy",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699580-3b1f7ec7-aa27-4334-8d03-312e726b0307.jpg",
+        "role":"Administration",
+        "email": "naggy@company.com",
+        "phone_number":"5598991223344",
+        "location":"São Luís - MA"
+    },
+
+    {
+        "name":"tay",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699582-fb28dedc-8126-4c42-a6f6-de77eb215657.jpg",
+        "role":"Compliance",
+        "email": "tay@company.com",
+        "phone_number":"5598991223344",
+        "location":"São Luís - MA"
+    },
+    
+    {
+        "name":"mark",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141705983-0ce17e42-536e-4eb1-bb68-1dc23dd5a83c.jpg",
+        "role":"IT",
+        "email": "mark@company.com",
+        "phone_number":"5598991223344",
+        "location":"São Luís - MA"
+    },
+
+    {
+        "name":"glenn",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699576-aacba4d0-ee17-4d12-bc58-f62be7a7bee8.jpg",
+        "role":"AdminiHRstration",
+        "email": "glenn@company.com",
+        "phone_number":"5598991223344",
+        "location":"São Luís - MA"
+    },
+
+    {
+        "name":"aggy",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699567-e33bf9ab-0b06-4039-8aa7-d4aa57ace8d4.jpg",
+        "role":"Legal",
+        "email": "aggy@company.com",
+        "phone_number":"5598991223344",
+        "location":"São Luís - MA"
+    },
+
+    {
+        "name":"mari",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699579-d6518f7e-9bfe-4ba8-9c6b-0d2f52c73d20.JPG",
+        "role":"Marketing",
+        "email": "mari@company.com",
+        "phone_number":"5598991223344",
+        "location":"São Luís - MA"
+    },
+
+    {
+        "name":"lea",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699577-a0bf8659-948e-44c6-a2a5-4037495ccdc9.jpg",
+        "role":"Sales",
+        "email": "lea@company.com",
+        "phone_number":"5598991223344",
+        "location":"Rio de Janeiro - RJ"
+    },
+
+    {
+        "name":"and",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699571-2747f18c-9e44-40bb-9a22-f6b827d741ab.JPG",
+        "role":"Sales",
+        "email": "and@company.com",
+        "phone_number":"5598991223344",
+        "location":"Rio de Janeiro - RJ"
+    },
+
+    {
+        "name":"doug",
+        "url_photo":"https://user-images.githubusercontent.com/49373874/141699574-07e8fabd-cc8e-49be-b76b-31e581f40a0f.jpg",
+        "role":"Finance/Accounting",
+        "email": "doug@company.com",
+        "phone_number":"5598991223344",
+        "location":"Rio de Janeiro - RJ"
+    }
+]

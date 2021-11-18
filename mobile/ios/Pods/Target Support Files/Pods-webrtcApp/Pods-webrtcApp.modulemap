@@ -1,0 +1,6 @@
+module Pods_webrtcApp {
+  umbrella header "Pods-webrtcApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

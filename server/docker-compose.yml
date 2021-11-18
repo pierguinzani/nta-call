@@ -1,0 +1,17 @@
+version: "3.6"
+services:
+  websocket:
+    image: "api_websocket"
+    build:
+      context: ./
+      dockerfile: ./Dockerfile.websocket
+    ports:
+      - 8080:8080
+    networks:
+      - mdb-network
+
+networks:
+  mdb-network:
+  driver: bridge
+  external:
+    name: mdb-network

@@ -1,0 +1,8 @@
+# Step 1: Build the app in image 'builder'
+FROM node:14 as builder
+
+WORKDIR /usr/src/app
+COPY websocket .
+RUN npm install
+
+CMD ["node","server.js"]
