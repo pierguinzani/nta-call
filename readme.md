@@ -107,7 +107,7 @@ The Application will be avaible on `wss://localhost:8080/`.
 
 ### :construction: Installing Dependencies
 
-Inside server folder, install dependencies with following comand:
+Inside mobile folder, install dependencies with following comand:
 
 ```bash
 $ cd mobile
@@ -130,7 +130,7 @@ or
 $ react-native run-ios
 ```
 
-🚨 to simplify the test, the apk for Android was generated and is located at nta-call/android/build/apks/app_release.apk
+🚨 to simplify the test, the apk for Android was generated and is located at nta-call/mobile/android/build/apks/app_release.apk
 
 ### :page_facing_up: License
 
